@@ -1,0 +1,52 @@
+html, body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(73, 78, 78);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+    background-image: url('img/istockphoto-1182882502-612x612.jpg');
+    background-size: cover; 
+    background-position: center; 
+    height: 360px;
+    width: 600px;
+    margin-top: 5%;
+
+}
+
+.countdown {
+    display: flex;
+    justify-content: center;
+
+}
+
+.time-unit {
+    width: 100px;
+    height: 90px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.text {
+    color: #f7f7f2;
+    font-size: 40px;
+    margin-top: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+}
+
