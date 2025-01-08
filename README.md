@@ -1,0 +1,1 @@
+# Contagem regressiva para eventos como o Ano Novo, o Natal e outras datas personalizadas. Mostra o tempo restante em dias, horas, minutos e segundos.
