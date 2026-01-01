@@ -2,7 +2,7 @@
 
 
 const countdown = () => {
-    const newYear = new Date('December 31, 2025 23:59:59');
+    const newYear = new Date('December 31, 2026 23:59:59');
     const currentDate = new Date();
     const totalSeconds = (newYear - currentDate) / 1000;
 
